@@ -1,0 +1,4 @@
+<resources>
+    <string name="welcome_text">Bienvenue</string>
+    <string name="btn_enter">Entrer</string>
+</resources>
